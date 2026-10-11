@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- WebView 는 SyncEngine 이 소유하며, Activity 가 이 컨테이너에 붙였다 뗀다(재생 세션 유지). -->
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#08080D" />
